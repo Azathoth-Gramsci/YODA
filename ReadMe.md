@@ -29,6 +29,9 @@ stat
 
 The raw_data directory available from (Zenodo- http://doi.org/10.5281/zenodo.4923833) must be placed in the same directory as this repository. Figures and processed data are exported to empty directories included in this repository (Plots and Processed_data respectively).
 
+Originally committed here:
+https://gitlab.inria.fr/InBio/Public/YeastOptogeneticDifferentiation_YODA
+
 In addition to the analysis code, the two pickle files contained within this directory are requisite for deconvolution. These are the spectral signatures for different fluorescence proteins and the Autofluorescence values for WT strain.
 
 Courage!
